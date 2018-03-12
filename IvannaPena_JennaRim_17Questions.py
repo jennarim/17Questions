@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------#
-#			17 Questions Program by Ivanna Pena and Jenna Rim			#
+#	   17 Questions Program by Ivanna Pena and Jenna Rim	        #
 #-----------------------------------------------------------------------#
 
 print("Think of a number between 0 and 2^10 (1024).\nI will ask you at most 17 questions, but you can lie maximum once.\nAnswer using T or F");
